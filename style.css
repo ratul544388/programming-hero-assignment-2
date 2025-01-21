@@ -159,6 +159,8 @@ header {
   justify-content: space-between;
   background-color: var(--background);
   position: sticky;
+  top: 0;
+  z-index: 50;
   inset-inline: 0;
 }
 
